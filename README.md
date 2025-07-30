@@ -1,72 +1,67 @@
-🚗 BMW Sales Dashboard
-📌 Overview
-The BMW Sales Dashboard is an interactive Power BI solution that provides a comprehensive view of BMW’s car sales performance across multiple regions and years. It delivers actionable insights to help stakeholders track revenue growth, identify top-selling models, and analyze sales trends for strategic decision-making.
+# 🚗 BMW Sales Dashboard
 
-✨ Features
-🔹 Sales Overview
-Tracks total revenue from 2019–2023, showing a 25.9% annual growth rate.
+## 📌 Overview
 
-Total Revenue: 0.05 Billion
+The **BMW Sales Dashboard** is an interactive **Power BI** solution that provides a comprehensive view of BMW’s car sales performance across multiple regions and years. It delivers actionable insights to help stakeholders track revenue growth, identify top-selling models, and analyze sales trends for strategic decision-making.
 
-🔹 Weekday Sales Trends
-Combined bar and line chart visualizing daily sales patterns.
+## ✨ Features
 
-Compares current year vs. last year performance.
+### 🔹 **Sales Overview**
 
-🔹 Top BMW Models
-Highlights best-performing models with units sold:
+* Tracks **total revenue** from **2019–2023**, showing a **25.9% annual growth rate**.
+* **Total Revenue:** **0.05 Billion**
 
-BMW Z4 – 666 units
+### 🔹 **Weekday Sales Trends**
 
-BMW 8 Series – 641 units
+* Combined **bar and line chart** visualizing daily sales patterns.
+* Compares **current year vs. last year** performance.
 
-BMW M4 – 620 units
+### 🔹 **Top BMW Models**
 
-🔹 Regional Sales Analysis
-Sales breakdown by country with growth rates and revenue:
+* Highlights best-performing models with units sold:
 
-Argentina – 22 units (+46.7%) | Revenue: 2M
+  * **BMW Z4** – 666 units
+  * **BMW 8 Series** – 641 units
+  * **BMW M4** – 620 units
 
-Brazil – 28 units (+21.7%) | Revenue: 2M
+### 🔹 **Regional Sales Analysis**
 
-Canada – 22 units (+46.7%) | Revenue: 1M
+* Sales breakdown by country with growth rates and revenue:
 
-Chile – 18 units (+175%) | Revenue: 7M
+  * Argentina – 22 units (+46.7%) | Revenue: 2M
+  * Brazil – 28 units (+21.7%) | Revenue: 2M
+  * Canada – 22 units (+46.7%) | Revenue: 1M
+  * Chile – 18 units (+175%) | Revenue: 7M
+  * China – 30 units (+0.9%) | Revenue: 4M
 
-China – 30 units (+0.9%) | Revenue: 4M
+### 🔹 **Yearly Performance**
 
-🔹 Yearly Performance
-Visualizes yearly sales from 2019 to 2023:
+* Visualizes yearly sales from **2019 to 2023**:
 
-2019: 117 | 2020: 105 | 2021: 130 | 2022: 176 | 2023: 138
+  * 2019: 117 | 2020: 105 | 2021: 130 | 2022: 176 | 2023: 138
+* **Total Units Sold:** 666
 
-Total Units Sold: 666
+### 🔹 **Model Insights**
 
-🔹 Model Insights
-Detailed model analysis with images, pricing, and yearly breakdown.
+* Detailed model analysis with **images, pricing, and yearly breakdown**.
+* Example: **BMW Z4** → 2022: 176 units (14M), 2023: 138 units (11M), **Total Revenue:** 52M.
 
-Example: BMW Z4 → 2022: 176 units (14M), 2023: 138 units (11M), Total Revenue: 52M.
+### 🔹 **Interactive Navigation**
 
-🔹 Interactive Navigation
-Side panel to switch between Dashboard and Car Models.
+* Side panel to switch between **Dashboard** and **Car Models**.
+* Filters for specific data exploration.
+* Built-in **Performance Analyzer** for optimization.
 
-Filters for specific data exploration.
+## 🛠️ Tools Used
 
-Built-in Performance Analyzer for optimization.
+* **Microsoft Power BI**
+* Data Visualization: Bar charts, line graphs, donut charts, tables
 
-🛠️ Tools Used
-Microsoft Power BI
+## 🚀 Usage
 
-Data Visualization: Bar charts, line graphs, donut charts, tables
+1. Open the dashboard in Power BI.
+2. Navigate through pages to explore sales insights.
+3. Apply filters to focus on specific regions, models, or years.
+4. Monitor revenue growth and identify opportunities for sales improvement.
 
-🚀 Usage
-Open the dashboard in Power BI.
 
-Navigate through pages to explore sales insights.
-
-Apply filters to focus on specific regions, models, or years.
-
-Monitor revenue growth and identify opportunities for sales improvement.
-
-✅ Conclusion
-This BMW Sales Dashboard empowers business analysts and stakeholders with data-driven insights to optimize sales strategies and enhance decision-making efficiency.
